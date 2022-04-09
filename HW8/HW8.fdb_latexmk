@@ -1,5 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1649527491 "c:/Users/andre/Documents/CS241/HW8/HW8.tex" "HW8.pdf" "HW8" 1649527492
+["pdflatex"] 1649528054 "c:/Users/andre/Documents/CS241/HW8/HW8.tex" "HW8.pdf" "HW8" 1649528055
+  "2bitadderpdfic.pdf" 1649526958 212721 e835bf55ccf3407b7f3178d9afbab388 ""
+  "2bitadderpdfnoic.pdf" 1649526438 134381 1faad6a1adf75f8177ee3bb407eb2ddf ""
   "C:/Users/andre/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1648923048 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/andre/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1642110819 9769967 e63c69c66ab167f3f6c62d2a6855599f ""
   "C:/Users/andre/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -44,9 +46,11 @@
   "C:/Users/andre/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty" 1602228096 22521 d2fceb764a442a2001d257ef11db7618 ""
   "C:/Users/andre/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1639465870 29971 0fb19a39718d289d512ef2f074f16cc2 ""
   "C:/Users/andre/AppData/Local/Programs/MiKTeX/tex/latex/parskip/parskip.sty" 1615976160 4288 94714aa7f535440f33181fec52a31963 ""
-  "HW8.aux" 1649527492 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "HW8.tex" 1649527489 1143 0c475f71f018fd5e388c7b6610f763fb ""
-  "c:/Users/andre/Documents/CS241/HW8/HW8.tex" 1649527489 1143 0c475f71f018fd5e388c7b6610f763fb ""
+  "HW8.aux" 1649528054 32 c81c40425fbb5e93b90fba65da0b5e61 "pdflatex"
+  "HW8.tex" 1649528052 1456 62862b8d419fb4844960815f958f02ba ""
+  "c:/Users/andre/Documents/CS241/HW8/HW8.tex" 1649528052 1456 62862b8d419fb4844960815f958f02ba ""
+  "fulladderpdf.pdf" 1649526438 131544 3ea3fe7c5c170a6490ecf48d2f058571 ""
+  "halfadderpdf.pdf" 1649526438 128965 6188849b3803e122f6b930f0ee0ed3e3 ""
   (generated)
   "HW8.aux"
   "HW8.log"
